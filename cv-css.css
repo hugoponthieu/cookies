@@ -1,0 +1,104 @@
+.titre {
+	font-weight: bold;
+	border: 5px dotted ;
+	border-color : black;
+	background:url(https://i.pinimg.com/236x/be/60/2f/be602f901b6d09f7d1afc5274de36e53.jpg); 
+	background-size:cover;
+}
+
+
+h1 {
+	text-align: center; 
+	color : tan; 
+}
+
+
+.definition {
+	border : solid; 
+	margin : 2em;
+	border-radius : 30px;	
+	border-color : black;
+	background-color: tan;
+}
+
+.image{
+	text-align : right;
+	width : auto;
+	margin:auto;
+	border : solid; 
+}
+
+section {
+	display:flex;
+}
+
+.centre{
+	text-align:center;
+}
+
+.profil{
+	border : solid; 
+	margin : 2em;
+	border-radius : 30px;	
+	border-color : pink;
+	color: pink;
+	background-color: brown;
+	text-align: center;
+}
+
+
+hr{
+	border-top: 5px dotted grey;
+}
+
+.ustensiles {
+	border : solid; 
+	border-radius : 30px;	
+	border-color : black;	
+	width: 480px;
+	margin:1em;
+	background:url(https://i.pinimg.com/236x/d8/b6/12/d8b61217fc24d2794b7d5868b5ade811.jpg);
+	background-size:cover;
+}
+
+.ingrédients {
+	border : solid; 
+	border-radius : 30px;	
+	border-color : black;	
+	width:480px;
+	margin:1em;
+	background:url(https://i.pinimg.com/236x/be/60/2f/be602f901b6d09f7d1afc5274de36e53.jpg);
+	background-size:cover;
+	color: white;
+}
+
+
+
+ul{
+	list-style-type: circle;
+}
+
+.recette{
+	border : solid; 
+	border-radius : 30px;	
+	border-color : brown;	
+	margin:1em;	
+	background-color : pink;
+	color:brown;
+}
+
+ol{
+	line-height:24px;
+    display: inline-block;
+    cursor: pointer;
+	vertical-align: middle;
+}
+
+.video{
+	border : solid; 
+	border-color : black;	
+	text-align: center;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:35px;}
